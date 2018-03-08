@@ -3,6 +3,8 @@
 The API is connecting to a local SQL server DB of below name: "EmployeeDB"
 
 You can also create a table of below structure in your own named DB and just regenerate the edmx  file and build the project before running.
+
+
 SET ANSI_NULLS ON
 GO
 
